@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"bank_system","l":"Account"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"bank_system","l":"Bank"},{"p":"bank_system","l":"bankSystem"},{"p":"bank_system","l":"Client"},{"p":"bank_system","l":"CommercialClient"},{"p":"bank_system","l":"NormalAccount"},{"p":"bank_system","l":"SpecialAccount"}];updateSearchResults();
